@@ -2,7 +2,7 @@
   {
     "Event_No": 0,
     "Disp_Order": 1,
-    "Date": "Mon",
+    "Date": 0,
     "Date and Time_1": "21：30～",
     "Event_Name": "まーじゃんカフェろこロン",
     "Date and Time_2": "",
@@ -17,7 +17,7 @@
   {
     "Event_No": 1,
     "Disp_Order": 2,
-    "Date": "Mon",
+    "Date": 0,
     "Date and Time_1": "22：00～",
     "Event_Name": "雀荘和水",
     "Date and Time_2": "",
@@ -32,7 +32,7 @@
   {
     "Event_No": 2,
     "Disp_Order": 1,
-    "Date": "Tue",
+    "Date": 1,
     "Date and Time_1": "21：30～",
     "Event_Name": "VRC麻雀Bar「一盃口」",
     "Date and Time_2": "",
@@ -47,7 +47,7 @@
   {
     "Event_No": 3,
     "Disp_Order": 1,
-    "Date": "Wed",
+    "Date": 2,
     "Date and Time_1": "22：00～",
     "Event_Name": "VRCカジノ風雀荘リャンマンベガス",
     "Date and Time_2": "",
@@ -62,7 +62,7 @@
   {
     "Event_No": 4,
     "Disp_Order": 1,
-    "Date": "Thu",
+    "Date": 3,
     "Date and Time_1": "21：30～",
     "Event_Name": "バカ麻雀部",
     "Date and Time_2": "",
@@ -77,7 +77,7 @@
   {
     "Event_No": 5,
     "Disp_Order": 1,
-    "Date": "Fri",
+    "Date": 4,
     "Date and Time_1": "21：00～",
     "Event_Name": "MLGround",
     "Date and Time_2": "",
@@ -92,7 +92,7 @@
   {
     "Event_No": 6,
     "Disp_Order": 1,
-    "Date": "Sat",
+    "Date": 5,
     "Date and Time_1": "20：30～",
     "Event_Name": "三軒立直 - VRC三人麻雀集会",
     "Date and Time_2": "",
@@ -107,7 +107,7 @@
   {
     "Event_No": 7,
     "Disp_Order": 2,
-    "Date": "Sat",
+    "Date": 5,
     "Date and Time_1": "21：00～",
     "Event_Name": "VR麻雀Bar八連荘",
     "Date and Time_2": "",
@@ -122,7 +122,7 @@
   {
     "Event_No": 8,
     "Disp_Order": 1,
-    "Date": "Sun",
+    "Date": 6,
     "Date and Time_1": "13：00～",
     "Event_Name": "雀魂三麻「Champion League」",
     "Date and Time_2": "",
@@ -137,7 +137,7 @@
   {
     "Event_No": 9,
     "Disp_Order": 2,
-    "Date": "Sun",
+    "Date": 6,
     "Date and Time_1": "19：00～",
     "Event_Name": "麻雀喫茶イッパツロンダリー",
     "Date and Time_2": "",
@@ -152,7 +152,7 @@
   {
     "Event_No": 10,
     "Disp_Order": 3,
-    "Date": "Sun",
+    "Date": 6,
     "Date and Time_1": "22：00～",
     "Event_Name": "VRC麻雀BAR「混一色」",
     "Date and Time_2": "",
@@ -167,7 +167,7 @@
   {
     "Event_No": 11,
     "Disp_Order": 4,
-    "Date": "Sun",
+    "Date": 6,
     "Date and Time_1": "21：00～",
     "Event_Name": "VRC雀荘 秋刀魚",
     "Date and Time_2": "",
@@ -182,7 +182,7 @@
   {
     "Event_No": 12,
     "Disp_Order": 1,
-    "Date": "Irr",
+    "Date": 7,
     "Date and Time_1": "(月1回)",
     "Event_Name": "雀荘「夢闇屋」",
     "Date and Time_2": "",
@@ -197,7 +197,7 @@
   {
     "Event_No": 13,
     "Disp_Order": 2,
-    "Date": "Irr",
+    "Date": 7,
     "Date and Time_1": "(不定期)",
     "Event_Name": "十三不塔 - Unrelated-13",
     "Date and Time_2": "",
@@ -212,7 +212,7 @@
   {
     "Event_No": 14,
     "Disp_Order": 3,
-    "Date": "Irr",
+    "Date": 7,
     "Date and Time_1": "(不定期)",
     "Event_Name": "牌遊サロン 緑風-Leefeng-",
     "Date and Time_2": "",
@@ -227,7 +227,7 @@
   {
     "Event_No": 15,
     "Disp_Order": 1,
-    "Date": "Tai",
+    "Date": 8,
     "Date and Time_1": "",
     "Event_Name": "Quest麻雀最弱王",
     "Date and Time_2": "",
@@ -242,7 +242,7 @@
   {
     "Event_No": 16,
     "Disp_Order": 2,
-    "Date": "Tai",
+    "Date": 8,
     "Date and Time_1": "",
     "Event_Name": "しおかぜ杯",
     "Date and Time_2": "",
@@ -257,7 +257,7 @@
   {
     "Event_No": 17,
     "Disp_Order": 1,
-    "Date": "Wor",
+    "Date": 9,
     "Date and Time_1": "",
     "Event_Name": "(PC) (Android) (iOS)　緑一色",
     "Date and Time_2": "",
