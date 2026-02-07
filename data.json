@@ -15,7 +15,9 @@
     "Group": "grp_d20c8d00-51ae-47cc-8f73-ca0c893b3e92",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00000.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "フリースペース",
+    "LOWER_TEXT": "二盃口 チームアリーナ プレリーグ開催中\n毎週水土にYoutubeで配信中"
   },
   {
     "Event_No": 1,
@@ -33,7 +35,9 @@
     "Group": "grp_1ce199bb-a5cb-414e-bd91-86c04231e5a3",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00001.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 2,
@@ -51,7 +55,9 @@
     "Group": "grp_40edcfd3-6459-4327-a3f1-00075224fca3",
     "Discord": "https://discord.gg/qCjKmxJQ",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00002.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 3,
@@ -69,7 +75,9 @@
     "Group": "grp_8beeb7ed-a506-41e0-a8b5-552c86356959",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00003.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 4,
@@ -87,7 +95,9 @@
     "Group": "grp_8a8fa39a-cd01-4f5a-b5b5-b5322d029458",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00004.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 5,
@@ -105,7 +115,9 @@
     "Group": "grp_94a797d1-7a4f-450a-a221-b761f5a6668c",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00005.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 6,
@@ -123,7 +135,9 @@
     "Group": "grp_fc0295fe-2c54-4e70-b0a7-64e066235b57",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00006.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 7,
@@ -141,7 +155,9 @@
     "Group": "grp_5d627ca6-c2d4-41ab-8455-590d16ebd7d1",
     "Discord": "https://discord.gg/rHVcnfk3",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00007.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 8,
@@ -159,7 +175,9 @@
     "Group": "grp_4245defd-ac1c-4304-895e-52111a246312",
     "Discord": "https://discord.gg/rK2JVAc8",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00008.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 9,
@@ -177,7 +195,9 @@
     "Group": "",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00009.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 10,
@@ -195,7 +215,9 @@
     "Group": "grp_c3355d91-49bd-41ce-ba81-67847511dee6",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00010.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 11,
@@ -213,7 +235,9 @@
     "Group": "grp_f0614084-c913-4fad-b616-ec8e805dc256",
     "Discord": "https://discord.gg/FM2N3N7j",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00011.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 12,
@@ -231,7 +255,9 @@
     "Group": "",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00012.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 13,
@@ -249,7 +275,9 @@
     "Group": "grp_10abedc2-883c-454d-9ab4-49042f1feaa3",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00013.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 14,
@@ -267,7 +295,9 @@
     "Group": "grp_a83aba3d-e8f3-4fc7-bd79-518c7058a387",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00014.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 15,
@@ -285,7 +315,9 @@
     "Group": "grp_f85f4100-0cb5-4cbb-a7f2-e0b0175d99da",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00015.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 16,
@@ -303,7 +335,9 @@
     "Group": "grp_f85f4100-0cb5-4cbb-a7f2-e0b0175d99da",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00016.png",
-    "TYPE": 0
+    "TYPE": 0,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 17,
@@ -321,7 +355,9 @@
     "Group": "grp_f696f508-e9d4-4f38-a974-77f94314b9e1",
     "Discord": "",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00017.png",
-    "TYPE": 1
+    "TYPE": 1,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 18,
@@ -339,7 +375,9 @@
     "Group": "grp_9adc6f3a-c70d-4efb-a620-1866d2b8847d",
     "Discord": "https://discord.gg/JhYe4Nqu",
     "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00018.png",
-    "TYPE": 1
+    "TYPE": 1,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 19,
@@ -357,7 +395,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 20,
@@ -375,7 +415,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 21,
@@ -393,7 +435,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 22,
@@ -411,7 +455,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 23,
@@ -429,7 +475,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 24,
@@ -447,7 +495,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 25,
@@ -465,7 +515,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 26,
@@ -483,7 +535,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 27,
@@ -501,7 +555,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 28,
@@ -519,7 +575,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 29,
@@ -537,7 +595,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 30,
@@ -555,7 +615,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 31,
@@ -573,7 +635,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 32,
@@ -591,7 +655,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 33,
@@ -609,7 +675,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 34,
@@ -627,7 +695,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 35,
@@ -645,7 +715,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 36,
@@ -663,7 +735,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 37,
@@ -681,7 +755,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 38,
@@ -699,7 +775,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 39,
@@ -717,7 +795,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 40,
@@ -735,7 +815,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 41,
@@ -753,7 +835,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 42,
@@ -771,7 +855,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 43,
@@ -789,7 +875,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 44,
@@ -807,7 +895,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 45,
@@ -825,7 +915,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 46,
@@ -843,7 +935,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 47,
@@ -861,7 +955,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 48,
@@ -879,7 +975,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 49,
@@ -897,7 +995,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 50,
@@ -915,7 +1015,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 51,
@@ -933,7 +1035,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 52,
@@ -951,7 +1055,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 53,
@@ -969,7 +1075,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 54,
@@ -987,7 +1095,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 55,
@@ -1005,7 +1115,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 56,
@@ -1023,7 +1135,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 57,
@@ -1041,7 +1155,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 58,
@@ -1059,7 +1175,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 59,
@@ -1077,7 +1195,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 60,
@@ -1095,7 +1215,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 61,
@@ -1113,7 +1235,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 62,
@@ -1131,7 +1255,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 63,
@@ -1149,7 +1275,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 64,
@@ -1167,7 +1295,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 65,
@@ -1185,7 +1315,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 66,
@@ -1203,7 +1335,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 67,
@@ -1221,7 +1355,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 68,
@@ -1239,7 +1375,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 69,
@@ -1257,7 +1395,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 70,
@@ -1275,7 +1415,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 71,
@@ -1293,7 +1435,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 72,
@@ -1311,7 +1455,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 73,
@@ -1329,7 +1475,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 74,
@@ -1347,7 +1495,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 75,
@@ -1365,7 +1515,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 76,
@@ -1383,7 +1535,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 77,
@@ -1401,7 +1555,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 78,
@@ -1419,7 +1575,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 79,
@@ -1437,7 +1595,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 80,
@@ -1455,7 +1615,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 81,
@@ -1473,7 +1635,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 82,
@@ -1491,7 +1655,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 83,
@@ -1509,7 +1675,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 84,
@@ -1527,7 +1695,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 85,
@@ -1545,7 +1715,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 86,
@@ -1563,7 +1735,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 87,
@@ -1581,7 +1755,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 88,
@@ -1599,7 +1775,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 89,
@@ -1617,7 +1795,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 90,
@@ -1635,7 +1815,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 91,
@@ -1653,7 +1835,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 92,
@@ -1671,7 +1855,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 93,
@@ -1689,7 +1875,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 94,
@@ -1707,7 +1895,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 95,
@@ -1725,7 +1915,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 96,
@@ -1743,7 +1935,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 97,
@@ -1761,7 +1955,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 98,
@@ -1779,7 +1975,9 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   },
   {
     "Event_No": 99,
@@ -1797,6 +1995,8 @@
     "Group": "",
     "Discord": "",
     "URL": "",
-    "TYPE": 2
+    "TYPE": 2,
+    "UPPER_TEXT": "",
+    "LOWER_TEXT": ""
   }
 ]
